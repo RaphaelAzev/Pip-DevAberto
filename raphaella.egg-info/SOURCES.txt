@@ -1,0 +1,10 @@
+README.md
+setup.py
+dev_aberto/__init__.py
+dev_aberto/dev_aberto.py
+raphaella.egg-info/PKG-INFO
+raphaella.egg-info/SOURCES.txt
+raphaella.egg-info/dependency_links.txt
+raphaella.egg-info/requires.txt
+raphaella.egg-info/top_level.txt
+scripts/hello.py
